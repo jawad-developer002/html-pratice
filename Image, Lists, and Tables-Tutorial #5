@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+     td{
+        border: 2px solid black;
+     }
+    </style>
+</head>
+<body>
+       <!-- IMAGE -->
+    <img width="150px" height="230px" src="zenitsu-agatsuma-5120x2880-26520.jpg" alt="Annime Image">
+ 
+       <!-- TABLE -->
+<br>
+<table>
+    <thead>
+
+    <tr>
+        <caption>Class Details</caption>
+        <th>Name</th>
+        <th>Class</th>
+        <th>Section</th>
+    </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+            <td colspan="2">Jawad</td>
+            <td>SE</td>
+        </tr>
+        <tr>
+            <td>jawad</td>
+            <td>11</td>
+            <td rowspan="2">1A</td>
+        </tr>
+        <tr>
+            <td>Hammad</td>
+            <td>12</td>
+        </tr>
+    </t>>
+</tbody>       
+</table>
+
+<!-- Lists -->
+ <!-- unordered list -->
+  <ul type = "square">
+    <li>papa</li>
+    <li>mama</li>
+    <li>Hufsa</li>
+    <li>Hammad</li>
+  </ul>
+
+  <!-- Ordered Lists -->
+   <ol type="A">
+    <li>papa</li>
+    <li>mama</li>
+    <li>sis</li>
+    <li>Jawad</li>
+   </ol>
+
+
+   <!-- Defination list -->
+    <dl>
+        <dt>SE</dt>
+        <dd>SE usually stands for the term software engineering</dd>
+    </dl>
+    <script src=""></script>
+</body>
+</html>
