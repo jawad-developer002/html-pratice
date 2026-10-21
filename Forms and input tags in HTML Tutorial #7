@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Lets Learn it</title>
+</head>
+
+<body>
+    <div>
+        <h1>Form to apply for getting Admission in Fedral Urdu University in Islamabad</h1>
+    </div>
+    <div>
+        <!-- Input                                      -->
+        <form action="post">
+            <label for="username">Enter Your Username</label>
+            <input type="text" name="username" placeholder="Enter Your Name" autofocus>
+    </div>
+    <div>
+         <!-- Radio Buttons -->
+        <label for="Male">Male</label>
+        <input type="radio" name="Male" id="Male" value="Gender">
+        <label for="Female">Female</label>
+        <input type="radio" name="Male" id="Female" value="Gender">
+        </form>
+    </div>
+    <div>
+        <!-- Check Box -->
+        <form action="post">
+            <label for="age">Above 18?</label>
+            <input type="checkbox" id="age">
+        </form>
+    </div>
+    <div>
+        <!-- Text Area -->
+         <label for="text">Enter yout Comment Here </label>
+         <br>
+         <textarea name="txt" id="text" rows="4" cols="50">
+Enter Your Text Here .... :
+         </textarea>
+    </div>
+    <div>
+        <!-- Select -->
+         <select name="Friuts" id="select">
+<option value="Mango">Mango</option>
+<option value="BanaNa">BanaNa</option>
+<option value="Apple">Apple</option>
+<option value="Grapes">Grapes</option>
+
+         </select>
+    </div>
+</body>
+
+</html>
