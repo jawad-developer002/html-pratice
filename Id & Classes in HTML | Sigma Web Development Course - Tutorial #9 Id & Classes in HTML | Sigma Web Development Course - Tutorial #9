@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID and Classes</title>
+</head>
+<body>
+    
+<!-- id nad classes in html -->
+<div class="red" id="first-div"></div>
+<span class="red" id="first-span"></span>
+
+<!-- If we want to put multiple classes in a tag -->
+ <div class="Blue Yellow">So by adding a space btween the we can give multiple classes to a tag</div>
+
+</body>
+</html>
