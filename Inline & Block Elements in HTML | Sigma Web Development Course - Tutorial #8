@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header></header>
+    <main>
+        <p>Hey i am a para</p>
+        <a href="https://dev-jawad.vercel.app">Dev-Jawad</a>
+        <div>i am DIV and i am a bolck element</div>
+        <span>I am a Span nad i am inline element</span>
+        
+    </main>
+    <footer></footer>
+    <!-- Quick Quiz -->
+     without using a Br tag, write a vertivcally aligned form asking for name , city and , oicode of the user </body>
+     <!-- Everyone must comment -->
+</html>
