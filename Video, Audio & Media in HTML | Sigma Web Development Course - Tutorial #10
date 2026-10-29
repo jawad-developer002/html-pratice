@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video, Audio & Media in HTML</title>
+</head>
+<body>
+    <header></header>
+    <main>
+        <video src="Download.mp4" width="555" height="255" controls loop muted poster="zenitsu-agatsuma-5120x2880-26520.jpg"></video>
+        <audio src="sample-9s.mp3" controls ></audio>
+<svg height="100" width="100">
+<circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red"/>
+</svg>
+    <!-- Important point ofr the Audio nad Video is PreLoad -->
+     <!-- if we apply preload in audio and video tag then it downloads the the media data of the given format before loading the page-->
+
+
+    <!-- SVG -->
+<iframe src="https://dev-jawad.vercel.app" frameborder="0" height="450" width="380 "></iframe>
+    
+
+<!-- youtube Embedded -->
+ <iframe src="<iframe width="560" height="315" src="https://www.youtube.com/embed/CNsvts6pVzo?si=EezrhqWJgjAq83xs&amp;start=778" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" frameborder="0"></iframe>
+
+
+ <!--Quick Quiz -->
+ Create a website which shows the videos of Different catogary and audios of different catagories
+ you can use youtube videos by using Embedded feature
+    </main>
+    <footer></footer>
+
+
+</body>
+</html>
